@@ -1,0 +1,15 @@
+dd/mm/yy, hh:mm - Name: message
+26/10/26, 09:15 - Riya: good morning everyone
+26/10/26, 09:16 - Aman: hello everyone
+26/10/26, 09:20 - Neha: how are you
+26/10/26, 10:15 - Riya: I am fine
+26/10/26, 10:30 - Aman: today we have Linux lab
+26/10/26, 11:00 - Karan: please share notes
+26/10/26, 11:15 - Priya: I completed assignment
+26/10/26, 12:00 - Rahul: thank you
+26/10/26, 13:15 - Riya: see you tomorrow
+26/10/26, 14:30 - Aman: project is ready
+27/10/26, 09:00 - Neha: good morning
+27/10/26, 09:15 - Karan: how is everyone
+27/10/26, 10:00 - Priya: please send notes
+27/10/26, 11:30 - Rahul: thank you everyone
